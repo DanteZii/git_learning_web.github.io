@@ -1,1 +1,1 @@
-'first git web'
+'github web'
