@@ -1,1 +1,1 @@
-'git_learning_web.github.io'
+git_learning_web.github.io
